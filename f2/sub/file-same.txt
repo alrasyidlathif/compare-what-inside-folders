@@ -1,0 +1,6 @@
+console.log(eh eh eh)
+
+if (true) do all below:
+    1. makan
+    2. tidur
+    3. kerja
